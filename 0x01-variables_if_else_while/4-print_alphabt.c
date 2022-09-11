@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	char ch;
 	for (ch = 'a' ; ch <= 'z' ; ch++)
@@ -14,6 +14,6 @@ int main (void)
 			putchar(ch);
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }

@@ -5,11 +5,10 @@
  * Return: Always 0 (Succcess)
  */
 int main(void)
-{
-	int c;
-	for (c = 0; c < 10; c++)
+{	int i;
+	for (i = 0; i < 10; i++)
 	{
-		putchar(c);
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);

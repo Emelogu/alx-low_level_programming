@@ -8,7 +8,8 @@ int main(void)
 {	int n1 = 0;
 	int n2;
 	while (n1 <= 99)
-	{	n2 = n1;
+	{
+		n2 = n1;
 		while (n2 <= 99)
 		{
 			if (n2 != n1)

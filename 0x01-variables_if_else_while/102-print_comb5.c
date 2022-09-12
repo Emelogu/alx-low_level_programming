@@ -20,9 +20,10 @@ int main(void)
 
 				if (n1 != 98 || n2 != 98)
 				{
-					putchar(',');
-					putchar(' ');
+					break;
 				}
+				putchar(',');
+				putchar(' ');
 			}
 			++n2;
 		}

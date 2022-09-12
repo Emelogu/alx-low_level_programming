@@ -25,7 +25,7 @@ int main(void)
 			}
 			++n2;
 		}
-		++n2;
+		++n1;
 	}
 	putchar('\n');
 	return (0);

@@ -7,7 +7,7 @@
  */
 int main(void)
 {	int n1 = 0, n2;
- 	while (n1 <= 99)
+	while (n1 <= 99)
 	{	
 		n2 = n1;
 		while (n2 <= 99)

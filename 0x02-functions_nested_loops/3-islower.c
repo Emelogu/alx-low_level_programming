@@ -4,14 +4,13 @@
  * @c: is the int that will be for the argument of the function
  * Return: Always 0 (Success)
  */
-int _islower(int c)
-
+int _islower(void)
 {	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
 	else
 	{
-		return(0);
+		return (0);
 	}
 }

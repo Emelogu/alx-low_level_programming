@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
-/** 
- * main - function that prints the sum of two multiples
+/**
+* main - function that prints the sum of two multiples
  *
  * Return: Always 0
  */
@@ -14,6 +14,6 @@ int main(void)
 			sum += i;
 		}
 	}
- 	printf("%d\n", sum);
- 	return (0);
+	printf("%d\n", sum);
+	return (0);
 }

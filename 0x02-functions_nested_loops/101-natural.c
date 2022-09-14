@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdio.h>
-/** main - function that prints the sum of two multiples
+/** 
+ * main - function that prints the sum of two multiples
  *
  * Return: Always 0
  */
